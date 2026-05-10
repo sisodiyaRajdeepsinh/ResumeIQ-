@@ -84,8 +84,8 @@ The analyzer uses a curated taxonomy of **250+ technical and soft skills** acros
 
 ## 👤 Author
 
-**Rajdeepsinh Jadeja**
-- GitHub: [@rajdeepsinh](https://github.com/rajdeepsinh)
+**Rajdeepsinh Sisodiya**
+- GitHub: [@sisodiyaRajdeepsinh](https://github.com/sisodiyaRajdeepsinh)
 
 ## 📄 License
 

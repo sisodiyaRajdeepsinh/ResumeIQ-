@@ -137,7 +137,7 @@ btnClearJd.addEventListener('click', () => { jdInput.value = ''; jdCount.textCon
 // ===========================
 // Sample Data
 // ===========================
-const SAMPLE_RESUME = `Rajdeepsinh Jadeja
+const SAMPLE_RESUME = `Rajdeepsinh Sisodiya
 Software Developer | AI/ML Enthusiast
 
 EXPERIENCE
