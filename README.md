@@ -7,6 +7,10 @@
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
 </p>
 
+<h3 align="center">
+  <a href="https://sisodiyaRajdeepsinh.github.io/ResumeIQ-/">🚀 View Live Demo</a>
+</h3>
+
 **ResumeIQ** is a smart, client-side resume analysis tool that compares your resume against a target job description to identify skill gaps, highlight matches, and provide actionable improvement suggestions — all without requiring any API keys or backend.
 
 ## ✨ Features
